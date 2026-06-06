@@ -98,7 +98,7 @@ python main.py
 
 ### Ranking System
 
-* School-wide rank list
+* School-wise rank list
 
 * Class-wise topper & ranking
 
